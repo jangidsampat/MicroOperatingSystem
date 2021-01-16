@@ -1,0 +1,59 @@
+*   
+*   *   
+*   *   *   
+*   *   
+EM(2) : Line Limit Exceeded
+Process(1) Terminated: Time Taken -> 24/25 Lines Printed -> 5/4
+IR : ['P', 'D', '6', '0'], IC : 15, R : ['*', ' ', ' ', ' ']
+
+
+CAT CAN EAT RAT 
+RAT 
+EM(0) : No Error
+Process(2) Terminated: Time Taken -> 15/20 Lines Printed -> 2/2
+IR : ['H', None, None, None], IC : 10, R : ['R', 'A', 'T', ' ']
+
+
+EM(6) : Invalid Page Fault
+Process(3) Terminated: Time Taken -> 3/7 Lines Printed -> 0/2
+IR : ['L', 'R', '3', '6'], IC : 2, R : [None, None, None, None]
+
+
+ABCD
+ABCD
+EM(3) : Time Limit Exceeded
+Process(4) Terminated: Time Taken -> 10/9 Lines Printed -> 2/4
+IR : ['G', 'D', '5', '0'], IC : 6, R : [None, None, None, None]
+
+
+EM(5) : Operand Error
+Process(5) Terminated: Time Taken -> 7/20 Lines Printed -> 0/10
+IR : ['S', 'R', '7', 'A'], IC : 4, R : [' ', 'T', 'O', None]
+
+
+EM(4) : Operation Code Error
+Process(6) Terminated: Time Taken -> 14/50 Lines Printed -> 0/8
+IR : ['P', 'A', '3', '0'], IC : 9, R : ['E', None, None, None]
+
+
+EM(1) : Out of Data
+Process(7) Terminated: Time Taken -> 2/50 Lines Printed -> 0/8
+IR : ['G', 'D', '3', '0'], IC : 1, R : [None, None, None, None]
+
+
+ABCD
+ABCD
+EM(3) : Time Limit Exceeded
+EM(4) : Operation Code Error
+Process(8) Terminated: Time Taken -> 13/12 Lines Printed -> 2/4
+IR : ['B', 'A', '1', '0'], IC : 9, R : ['A', 'B', 'C', 'D']
+
+
+ABCD
+ABCD
+EM(3) : Time Limit Exceeded
+EM(5) : Operand Error
+Process(9) Terminated: Time Taken -> 13/12 Lines Printed -> 2/4
+IR : ['B', 'T', '1', 'A'], IC : 9, R : ['A', 'B', 'C', 'D']
+
+

@@ -1,0 +1,51 @@
+VIT VIIT NOT SAME
+EM(0) : No Error
+Process(1) Terminated: Time Taken -> 21/90 Lines Printed -> 1/90
+
+
+* * * * 
+* * * * 
+* * * * 
+* * * * 
+EM(0) : No Error
+Process(2) Terminated: Time Taken -> 7/90 Lines Printed -> 4/90
+
+
+*    
+*   *   
+*   *   *   
+*   *   
+*   
+EM(0) : No Error
+Process(3) Terminated: Time Taken -> 25/90 Lines Printed -> 5/90
+
+
+*    
+*   *   
+*   *   *   
+*   *   *   *   
+*   *   *   *   *   
+EM(0) : No Error
+Process(4) Terminated: Time Taken -> 37/90 Lines Printed -> 5/90
+
+
+I
+LIVE
+IN
+INDIA
+EM(0) : No Error
+Process(5) Terminated: Time Taken -> 13/90 Lines Printed -> 4/90
+
+
+1   2   2   1   
+Is A Palindrome
+EM(0) : No Error
+Process(6) Terminated: Time Taken -> 15/90 Lines Printed -> 2/90
+
+
+1   2   3   1   
+Is Not A Palindrome
+EM(0) : No Error
+Process(7) Terminated: Time Taken -> 15/90 Lines Printed -> 2/90
+
+
